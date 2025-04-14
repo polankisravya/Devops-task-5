@@ -23,3 +23,5 @@
    ```
 
 This will open the deployed Nginx application in your browser.
+![Screenshot 2025-04-14 145613](https://github.com/user-attachments/assets/0c192ddf-00a2-4bdc-adb7-3ac12241fe90)
+
